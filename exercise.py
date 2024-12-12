@@ -17,7 +17,7 @@ def print_greeting():
         print("Python is fun!")
 
 # Call the function
-# print_greeting()             1)ACTIVATE LATER
+print_greeting()      
 
 
 
@@ -52,7 +52,7 @@ def check_letter():
         print(f'The letter {user_input} is a consonant.')
     
 # Call the function
-# check_letter()                2)ACTIVATE LATER
+check_letter()               
 
 
 
@@ -94,7 +94,7 @@ def check_voting_eligibility():
     except ValueError:
         print('Invalid input. Please enter a numerical age.')
 # Call the function
-# check_voting_eligibility()            3)ACTIVATE LATER
+check_voting_eligibility()            
 
 
 # Exercise 3: Calculate Dog Years
@@ -135,7 +135,7 @@ def calculate_dog_years():
     
     print(f"The dog's age in dog years is {dog_years}.")
 # Call the function
-# calculate_dog_years()                 4)ACTIVATE LATER
+calculate_dog_years()               
 
 
 
@@ -177,7 +177,7 @@ def weather_advice():
     else:
         print('Wear light clothing.')
 # Call the function
-# weather_advice()                      5)ACTIVATE LATER
+weather_advice()                     
 
 
 
